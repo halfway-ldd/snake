@@ -1,0 +1,15 @@
+release/data.o
+release/main.o
+release/mainwindow.o
+release/menu.o
+release/reg.o
+release/snake.o
+release/snakelist.o
+release/tools.o
+release/widget.o
+release/qrc_gamepic.o
+release/moc_mainwindow.o
+release/moc_menu.o
+release/moc_reg.o
+release/moc_snake.o
+release/moc_widget.o

@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/gamepic">
+        <file alias="snake">logo.png</file>
+        <file alias="wall01">timg.jfif</file>
+        <file alias="space">grass.jpg</file>
+        <file>background.png</file>
+        <file>snake_01.png</file>
+        <file>desc.jpg</file>
+        <file>title.png</file>
+        <file>snake_02.png</file>
+        <file>snake_03.png</file>
+        <file alias="wall02">wall.png</file>
+        <file alias="food01">mouse.png</file>
+        <file alias="snakeHead01">snake-256.png</file>
+        <file alias="snakeHead02">-_Snake-Animal-Face-Poison-Viper-Serpent-256.png</file>
+        <file alias="snakeHead03">snake-111.png</file>
+        <file alias="snakeHead04">great_snake-snake-dragon-year_of_dragon-animal-chinese-zodiac-face-256.png</file>
+        <file alias="snakeBody01">ouroboros-256.png</file>
+        <file alias="snakeBody02">Exotic_Pet_Vet-512.png</file>
+        <file alias="snakeBody03">tennisball-512.png</file>
+        <file alias="snakeBody04">Yin_and_yang-chinese-china-yin-yang-amulet-dark-bright-512.png</file>
+        <file alias="wall03">64-256.png</file>
+        <file alias="wall04">wall-brick-constrution-building-256.png</file>
+        <file alias="food02">apple-512.png</file>
+        <file alias="food03">blueberries-2-256.png</file>
+        <file alias="food04">011_fruits_ananas_food_watermelon-512 (3).png</file>
+        <file alias="map01">map01.png</file>
+        <file alias="map02">map02.png</file>
+        <file alias="map03">map03.png</file>
+        <file alias="map00">map00.png</file>
+    </qresource>
+</RCC>
